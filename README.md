@@ -24,8 +24,8 @@ A series of setup steps are required to use this automation.
 python3 device_freeze_protect.py ZIP_CODE ROUTINE_TRIGGER
 ```
 
-ZIP_CODE: the Zip code where the pool is located, used to derive local air temperature
-ROUTINE_TRIGGER: the name of the Voicemonkey trigger for turning on the ECO Plug smart switch 
+* ZIP_CODE: the Zip code where the pool is located, used to derive local air temperature
+* ROUTINE_TRIGGER: the name of the Voicemonkey trigger for turning on the ECO Plug smart switch 
 
 ### Environment variables
 
